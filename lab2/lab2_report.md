@@ -8,7 +8,7 @@ Year: 2023/2024
 
 Group: K34212
 
-Author: Gleov Ivan Igorevich
+Author: Glebov Ivan Igorevich
 
 Lab: Lab2
 
